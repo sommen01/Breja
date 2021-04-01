@@ -55,7 +55,7 @@ class _SplashPageState extends State<SplashPage> {
             child: Text(
               'Breja',
               style: TextStyle(
-                  color: Colors.white,
+                  color: Colors.black,
                   fontFamily: "Breja",
                   fontSize: 90,
                   fontWeight: FontWeight.normal),

@@ -255,7 +255,7 @@ class _HomePageState extends ModularState<HomePage, HomeController> {
                         fontFamily: "Breja",
                         color: Colors.black,
                         fontWeight: FontWeight.w400,
-                        fontSize: 27)),
+                        fontSize: 40)),
                 // Container(
                 //     padding: EdgeInsets.all(5),
                 //     margin: EdgeInsets.only(top: 4),
